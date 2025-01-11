@@ -1,0 +1,24 @@
+.productos-lista {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .producto-item {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .producto-item h3 {
+    margin-top: 0;
+  }
+  
+  .producto-item a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .producto-item a:hover {
+    text-decoration: underline;
+  }
